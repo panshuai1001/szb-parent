@@ -27,7 +27,7 @@
         <spring-cloud.version>Greenwich.SR1</spring-cloud.version>
         <mapper.starter.version>2.1.5</mapper.starter.version>
         <mysql.version>5.1.46</mysql.version>
-        <swagger2.version>2.7.0</swagger2.version>
+        <swagger2.version>2.10.0</swagger2.version>
     </properties>
 
     <dependencyManagement>
